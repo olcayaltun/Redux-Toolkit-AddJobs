@@ -1,0 +1,49 @@
+{
+  "jobs": [
+    {
+      "id": "6df79445-7c26-44ae-a84d-58573353b47c",
+      "position": "Data Analyst",
+      "company": "Coca Cola",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": 1715102448129
+    },
+    {
+      "position": "Marketing Manager",
+      "company": "Amazon",
+      "location": "İzmir/Bayraklı",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "3ca15fb5-cff8-464d-bb6e-bc244d22edfa",
+      "date": 1715104409300
+    },
+    {
+      "position": "Data Scientist",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Reddedildi",
+      "type": "Staj",
+      "id": "e1f6a932-6692-455f-b18c-14318404c2ff",
+      "date": 1724530035880
+    },
+    {
+      "position": "Data Analyst",
+      "company": "Amazon",
+      "location": "ankara",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "id": "81efaa24-059a-49ae-8051-de68cc10372e",
+      "date": 1724530251855
+    },
+    {
+      "position": "Data Scientist",
+      "company": "udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "id": "4e2eaee7-33b0-4d2a-884e-c584de5faad5",
+      "date": 1724530276130
+    }
+  ]
+}
