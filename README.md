@@ -1,3 +1,3 @@
 ## Redux ve Redux-Toolkit kullanilmistir
 
-![create](puclic/too.gif)
+![örnek](puclic/too.gif)
